@@ -1,0 +1,8 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.12.0
+  uic Lab5.ui
+  Lab5.cpp
+  main.cpp
+  qrc_Lab5.cpp
+  moc_Lab5.cpp
+  Lab5.vcxproj -> C:\Users\josej\OneDrive\Escritorio\UNA\Programacion 1\Lab 5\Lab5\x64\Debug\Lab5.exe
